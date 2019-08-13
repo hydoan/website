@@ -7,7 +7,7 @@ import App from './App';
 
 render(
   <Container>
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <App />
     </BrowserRouter>
   </Container>,

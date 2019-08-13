@@ -10,7 +10,7 @@ export default function WritingPage() {
     <Container>
       <NavBar />
       <Card.Group itemsPerRow={4}>
-        <WritingPostCard route="/writing/post00" title="Website Introduction" category="Category" description="Introduction to my personal website"/>
+        <WritingPostCard route="writing/post00" title="Website Introduction" category="Category" description="Introduction to my personal website"/>
 
       </Card.Group>
     </Container>
