@@ -10,8 +10,8 @@ export default function AboutPage() {
     <Container>
       <NavBar />
       <Grid>
-        <Grid.Column width={5} rounded>
-          <Image src={ ProfileImage } />
+        <Grid.Column width={5}>
+          <Image src={ ProfileImage } rounded />
         </Grid.Column>
 
         <Grid.Column width={11}>

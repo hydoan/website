@@ -1,11 +1,11 @@
 import React from 'react';
 import { Container } from 'semantic-ui-react'
 
-export default function WritingPost00() {
+export default function WritingPost01() {
   return (
     <Container>
       <Container text>
-        <h1 id="WebsiteIntroduction"> Website Introduction </h1>
+        <h1 id="Post2"> Post 2 </h1>
         <font color="grey">August 11, 2019</font><br/><br/>
         <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Interdum velit laoreet id donec ultrices tincidunt. Eget nulla facilisi etiam dignissim diam quis. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Nunc consequat interdum varius sit amet mattis. Enim neque volutpat ac tincidunt. Pharetra et ultrices neque ornare aenean euismod elementum nisi. Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Non nisi est sit amet facilisis magna etiam. Aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Vitae ultricies leo integer malesuada nunc vel risus. Dolor sit amet consectetur adipiscing. Dictum varius duis at consectetur lorem donec massa sapien faucibus.
